@@ -86,3 +86,11 @@ CLOUDINARY_API_SECRET=your_api_secret
 ---
 
 Happy Scheduling! 💌
+
+---
+
+## 📸 Output Screenshots
+
+![Dashboard Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1765988993/Screenshot_2025-12-17_215908_xc2igy.png)
+
+![Scheduler Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1765988994/Screenshot_2025-12-17_215914_myuddk.png)
